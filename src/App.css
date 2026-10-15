@@ -66,6 +66,12 @@ h1 {
   color: #ffffff;
   margin-bottom: 24px;
   text-align: center;
+  border: 1px solid rgba(249, 115, 22, 0.2);
+  border-radius: 16px;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  backdrop-filter: blur(10px);
+  background: rgba(12, 10, 9, 0.45);
 }
 
 form {
