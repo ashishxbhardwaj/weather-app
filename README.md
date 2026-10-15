@@ -8,7 +8,7 @@ A sleek, modern weather application built with React and powered by the OpenWeat
 
 | Main Interface | Weather Result View |
 | :---: | :---: |
-| ![Main Screen](./1.png) | ![Weather Result](./2.png) |
+| ![Main Screen](./src/assets/1.png) | ![Weather Result](./src/assets/2.png) |
 
 ---
 
